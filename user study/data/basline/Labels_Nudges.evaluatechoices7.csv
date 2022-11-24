@@ -1,0 +1,17 @@
+id,title,person,liked_news,trust_news,fit_preference,recommend_news,created,session_id
+10,EvaluateChoices7,11,Strongly_Disagree,Strongly_Disagree,Neutral,Agree,7,500
+11,EvaluateChoices7,13,Neutral,Disagree,Disagree,Strongly_Disagree,7,5f50928b5d41a420553ff777
+12,EvaluateChoices7,14,Neutral,Neutral,Neutral,Neutral,7,57444da52801a200067a75fb
+13,EvaluateChoices7,16,Disagree,Neutral,Neutral,Strongly_Disagree,7,606ca81043fc54382a7808fe
+14,EvaluateChoices7,19,Agree,Agree,Neutral,Agree,7,60c7c462f6a31fb56f96c218
+15,EvaluateChoices7,21,Strongly_Agree,Disagree,Neutral,Neutral,7,5ccf9a2828b5a8000116ec77
+16,EvaluateChoices7,15,Strongly_Agree,Agree,Agree,Disagree,7,55f244e632af740012170458
+17,EvaluateChoices7,25,Strongly_Agree,Agree,Neutral,Disagree,7,62f39dbe725e3c5cb274037b
+18,EvaluateChoices7,24,Strongly_Disagree,Neutral,Agree,Agree,7,5e89fdffad009e010e958ee7
+19,EvaluateChoices7,22,Agree,Agree,Agree,Strongly_Agree,7,5e13542bc12a3699bbdc8753
+20,EvaluateChoices7,18,Agree,Neutral,Agree,Neutral,7,5eee7448b465303350093b53
+21,EvaluateChoices7,33,Strongly_Agree,Agree,Neutral,Disagree,7,5bda12b600c1c4000155cb87
+22,EvaluateChoices7,27,Agree,Neutral,Neutral,Disagree,7,608437f0b139060610c9f0c1
+23,EvaluateChoices7,31,Agree,Agree,Neutral,Neutral,7,5d6fbd3f9ba41b0018d20082
+24,EvaluateChoices7,20,Neutral,Neutral,Neutral,Neutral,7,5d974512cb19b600164e21a9
+25,EvaluateChoices7,34,Strongly_Agree,Agree,Agree,Neutral,7,5e25c1a57d6cd1000cf870b8
